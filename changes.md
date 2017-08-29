@@ -14,6 +14,7 @@ This file is extremely disorganized at the moment. Oh well.
 ### Combat mechanics
 * 75% naval superiority for marine invasion
 * Defense for cities increased +25%
+*Reduce the effectiveness of tanks in urban terrain
 * Movement speed changes:
 	* Forest - movement speed -10%
 	* Mud -75% army speed
