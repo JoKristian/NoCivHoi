@@ -4,7 +4,7 @@ This file is extremely disorganized at the mment. Oh well.
 
 ## Changes applied
 
-* Nothing, lol
+* Defence in cities is now +0.3 (Originally no modifier)
 
 ## TODO
 
