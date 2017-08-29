@@ -1,4 +1,4 @@
-This file is extremely disorganized at the mment. Oh well.
+This file is extremely disorganized at the moment. Oh well.
 
 # Changes applied
 
@@ -15,15 +15,15 @@ This file is extremely disorganized at the mment. Oh well.
 * 75% naval superiority for marine invasion
 * Defense for cities increased +25%
 * Movement speed changes:
-* Forest - movement speed -10%
-* Mud -75% army speed
-* unit movement speed -50%
-* Medium snow on ground -50% movement speed
-* High snow -75% movement speed
+	* Forest - movement speed -10%
+	* Mud -75% army speed
+	* unit movement speed -50%
+	* Medium snow on ground -50% movement speed
+	* High snow -75% movement speed
 * Air efficiency changes
-* Snow -50% air mission eff
-* Heavy rain -50% air mission eff
-* Blizzard and sandstorm -100% air mission eff
+	* Snow -50% air mission eff
+	* Heavy rain -50% air mission eff
+	* Blizzard and sandstorm -100% air mission eff
 
 ### Technology changes:
 * Field hospitals need to be buffed
