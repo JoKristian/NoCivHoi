@@ -1,12 +1,10 @@
-# Changes Made
-
 This file is extremely disorganized at the mment. Oh well.
 
-## Changes applied
+# Changes applied
 
 * Defence in cities is now +0.3 (Originally no modifier)
 
-## TODO
+# TODO
 
 ### Unit changes:
 * Reduce infantry speed
