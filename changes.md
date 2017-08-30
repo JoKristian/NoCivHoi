@@ -3,7 +3,11 @@ This file is extremely disorganized at the moment. Oh well.
 # Changes applied
 
 * Defence in cities is now +0.3 (Originally no modifier)
-
+*Movement cost in hills up from 1.5 to 2
+*Movement cost in mountains up from 2 to 4
+*Movement cost in jungle up from 1.5 to 2
+*Movement cost in Marsh up from 2 to 3
+*Movement cost in desert up from 1.05 to 1.1
 # TODO
 
 ### Unit changes:
