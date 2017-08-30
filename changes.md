@@ -12,8 +12,8 @@ This file is extremely disorganized at the moment. Oh well.
 
 ### Country changes
 
-#### UK (needs buffs)
-* Commonwealth Ties focus 150 PP
+#### UK
+* Commonwealth Ties focus now additionally provides 150 PP
 
 # TODO
 
@@ -51,7 +51,6 @@ This file is extremely disorganized at the moment. Oh well.
 * needs Great Patriotic War focus
 * focus tree in general needs reworking
 #### UK (needs buffs)
-* Commonwealth Ties focus 150 PP
 * Intervention tree tweaked
 * Focus for norway puppet if war with germany
 * Protecting suez should give bunkers and airfields in alexandria
