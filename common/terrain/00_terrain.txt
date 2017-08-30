@@ -40,7 +40,7 @@ categories =  {
 
 	hills = {
 		color = { 248 255 153 }
-		movement_cost = 1.5
+		movement_cost = 2
 		combat_width = -0.33
 		ai_terrain_importance_factor = 3.0
 		sound_type = desert
@@ -54,7 +54,7 @@ categories =  {
 	
 	mountain = {
 		color = { 124 135 125 }
-		movement_cost = 2.0
+		movement_cost = 4
 		attrition = 0.4
 		combat_width = -0.66
 		ai_terrain_importance_factor = 10.0
@@ -92,7 +92,7 @@ categories =  {
 	
 	jungle = {
 		color = { 127 191 0 }
-		movement_cost = 1.5
+		movement_cost = 2
 		attrition = 0.3
 		combat_width = -0.25
 		ai_terrain_importance_factor = 6.0
@@ -108,7 +108,7 @@ categories =  {
 	
 	marsh = {
 		color = { 76 96 35 }
-		movement_cost = 2.0
+		movement_cost = 3
 		attrition = 0.5
 		combat_width = -0.25
 		ai_terrain_importance_factor = 8.0		
@@ -122,7 +122,7 @@ categories =  {
 	
 	desert = {
 		color = { 255 127 0 }
-		movement_cost = 1.05
+		movement_cost = 1.25
 		attrition = 0.2
 		ai_terrain_importance_factor = 8.0
 		sound_type = desert
