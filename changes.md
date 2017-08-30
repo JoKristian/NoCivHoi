@@ -2,12 +2,19 @@ This file is extremely disorganized at the moment. Oh well.
 
 # Changes applied
 
+### Combat mechanics
 * Defence in cities is now +0.3 (Originally no modifier)
-*Movement cost in hills up from 1.5 to 2
-*Movement cost in mountains up from 2 to 4
-*Movement cost in jungle up from 1.5 to 2
-*Movement cost in Marsh up from 2 to 3
-*Movement cost in desert up from 1.05 to 1.1
+* Movement cost in hills up from 1.5 to 2
+* Movement cost in mountains up from 2 to 4
+* Movement cost in jungle up from 1.5 to 2
+* Movement cost in Marsh up from 2 to 3
+* Movement cost in desert up from 1.05 to 1.1
+
+### Country changes
+
+#### UK (needs buffs)
+* Commonwealth Ties focus 150 PP
+
 # TODO
 
 ### Unit changes:
@@ -18,7 +25,7 @@ This file is extremely disorganized at the moment. Oh well.
 ### Combat mechanics
 * 75% naval superiority for marine invasion
 * Defense for cities increased +25%
-*Reduce the effectiveness of tanks in urban terrain
+* Reduce the effectiveness of tanks in urban terrain
 * Movement speed changes:
 	* Forest - movement speed -10%
 	* Mud -75% army speed
