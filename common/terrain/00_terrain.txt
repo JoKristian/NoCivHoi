@@ -122,7 +122,7 @@ categories =  {
 	
 	desert = {
 		color = { 255 127 0 }
-		movement_cost = 1.25
+		movement_cost = 1.1
 		attrition = 0.2
 		ai_terrain_importance_factor = 8.0
 		sound_type = desert
