@@ -9,6 +9,7 @@ This file is extremely disorganized at the moment. Oh well.
 * Movement cost in jungle up from 1.5 to 2
 * Movement cost in Marsh up from 2 to 3
 * Movement cost in desert up from 1.05 to 1.1
+* Naval Superiority required for invasion up from 0.5 to 0.75
 
 ### Country changes
 
