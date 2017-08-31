@@ -102,6 +102,8 @@ Add steel/tungsten to sweden
 India: focus for 20k infantry equip
 Canada needs a buff
 MAKE mp CHEAPER AND SHORTEN REESEARCH TIME FOTR IT
+give recon to light tanks?
+disable or fix "Do not engage" on navy
 
 Stuff:
 if possible to give maintenance company out off supply bonus,  signal company air support bonus ,   keep 100% research bonuses for level 4 subs, battleships, heavy cruisers, and battlecruisers , super battleships,  they are harmless and fun,  most cancerous one is still in game (( minors with generic tree can early research light cruiser 4, light cruisers are more broken than carriers),  mb split 1939 rifle to smg and rifle, rifle has high defence, smg has high breaktrough , give mountainers small bonusses in forest, marines small bonuses in mud,  nerf early depth charge damage,  move rocket artilerry 1 year early , add a 1939 heavy tank variant, it is stupid that there is none, make it s othat early artilerry cost half tungsten, , either buff 39 medium spg soft attack or nerf 36 light spg soft attack ,they are same,  Motorizer rocket artilerry is absolutely horrible considered to light spgs, smth needds to be done, this is all that comes to my mind , you may not agree with anything ??
