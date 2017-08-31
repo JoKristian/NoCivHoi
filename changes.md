@@ -45,6 +45,7 @@ This file is extremely disorganized at the moment. Oh well.
 	
 ### Political changes
 * Military theorists should produce 0.2 exp per day
+* Adding warscore as a subject should increase autonomy
 
 ### Infrastructure changes
 * Add "Industrial Megapark" province type (Larger than megalopolis)
