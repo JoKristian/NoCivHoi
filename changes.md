@@ -19,7 +19,6 @@ This file is extremely disorganized at the moment. Oh well.
 # TODO
 
 ### Unit changes:
-* Reduce infantry speed
 * Way to penalize artillery stacking?
 * Convoys should require more industrial capacity
 * decrease sub surface visibility
