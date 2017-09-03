@@ -2985,7 +2985,7 @@ focus_tree = {
 		available_if_capitulated = yes
 
 		completion_reward = {
-			add_political_power = 160
+			add_political_power = 150 # MOD added
 			
 			CAN = {
 				if = {

@@ -15,6 +15,8 @@ This file is extremely disorganized at the moment. Oh well.
 ### Country changes
 #### UK
 * Commonwealth Ties focus now additionally provides 150 PP
+#### Italy:
+* Victory in Africa +0.25PP gain
 
 # TODO
 
@@ -93,7 +95,7 @@ This file is extremely disorganized at the moment. Oh well.
 * focus for industry efficiency gain
 * Add "megapark" to Detroit and Pittsburgh
 #### Italy:
-* Victory in Africa +0.25PP gain
+* Lower national unity
 * Fleet Manufacturer, Military Theorist and Light Tank manufacturer added
 #### Japan
 * Imperial Austerity: +15 resources
