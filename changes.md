@@ -94,8 +94,7 @@ This file is extremely disorganized at the moment. Oh well.
 * focus for industry efficiency gain
 * Add "megapark" to Detroit and Pittsburgh
 #### Italy:
-* Victory in Africa +150 pp
-* Mussolini warmonger trait +25%pp
+* Victory in Africa +0.25PP gain
 * Fleet Manufacturer, Military Theorist and Light Tank manufacturer added
 #### Japan
 * Imperial Austerity: +15 resources
