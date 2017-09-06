@@ -43,6 +43,7 @@ This file is extremely disorganized at the moment. Oh well.
 	* Snow -50% air mission eff
 	* Heavy rain -50% air mission eff
 	* Blizzard and sandstorm -100% air mission eff
+	* look into air detection
 	
 ### Political changes
 * Military theorists should produce 0.2 exp per day
