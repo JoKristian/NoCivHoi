@@ -59,14 +59,14 @@ This file is extremely disorganized at the moment. Oh well.
 
 * Snow
 	* air_detection from  -15%  to -30%
-	* air_accidents from -1% to -3%
+	* air_accidents from 1% to 3%
 	* air_mission_efficiency from -10% to -30%
 
 * Blizzard
-	* air_detection from 30% to - 50 %
+	* air_detection from 30% to - 60 %
 	* air_accidents from 3% to 6%
 	* air_bombing_targetting from -70% to - 90%
-	* air_mission_efficiency from - 30% to - 90%
+	* air_mission_efficiency from - 30% to - 80%
 
 * Sandstorm
 	* air_detection = -90% 
