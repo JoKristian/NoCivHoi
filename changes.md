@@ -39,12 +39,39 @@ This file is extremely disorganized at the moment. Oh well.
 	* unit movement speed -50%
 	* Medium snow on ground -50% movement speed
 	* High snow -75% movement speed
-* Air efficiency changes
-	* Snow -50% air mission eff
-	* Heavy rain -50% air mission eff
-	* Blizzard and sandstorm -100% air mission eff
-	* look into air detection
-	
+	* Blizzard - 90% movement speed
+	* sandstorm - 80% movement speed
+
+* Air  changes
+	* Rain
+* air_detection from  -10% to -20%
+* air_accidents = +1%
+* air_mission_efficiency from -10% to -20%
+* air_bombing_targeting from 0 to -20% 
+
+* Heavy Rain
+* air_detection from -20% to -40 %
+* air_accidents = +3%
+* air_bombing_targetting from -50% to -60%
+* air_mission_efficiency from - 30% to -50%
+
+* Snow
+* air_detection from  -15%  to -30%
+* air_accidents from -1% to -3%
+* air_mission_efficiency from -10% to -30%
+
+* Blizzard
+* air_detection from 30% to - 50 %
+* air_accidents from 3% to 6%
+* air_bombing_targetting from -70% to - 90%
+* air_mission_efficiency from - 30% to - 90%
+
+* Sandstorm
+* air_detection = -90% 
+* air_accidents = 6%
+* air_bombing_targetting = - 100%
+* air_mission_efficiency = - 90%
+
 ### Political changes
 * Military theorists should produce 0.2 exp per day
 * Adding warscore as a subject should increase autonomy
