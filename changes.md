@@ -24,7 +24,6 @@ This file is extremely disorganized at the moment. Oh well.
 		* air_accidents = +1%
 		* air_mission_efficiency from -10% to -20%
 		* air_bombing_targeting from 0 to -20% 
-
 	* Heavy Rain
 		* air_detection from -20% to -40 %
 		* air_accidents = +3%
