@@ -6,11 +6,18 @@ This file is extremely disorganized at the moment. Oh well.
 * Naval Superiority required for invasion up from 0.5 to 0.75
 * Defence in cities is now +0.3 (Originally no modifier)
 * Movement cost changes:
-	* Movement cost in hills up from 1.5 to 2
-	* Movement cost in mountains up from 2 to 4
-	* Movement cost in jungle up from 1.5 to 2
-	* Movement cost in Marsh up from 2 to 3
-	* Movement cost in desert up from 1.05 to 1.1
+	* Terrain types:
+		* Movement cost in hills up from 1.5 to 2
+		* Movement cost in mountains up from 2 to 4
+		* Movement cost in jungle up from 1.5 to 2
+		* Movement cost in Marsh up from 2 to 3
+		* Movement cost in desert up from 1.05 to 1.1
+	* Environmental factors
+		* Mud -75% army speed
+		* Medium snow on ground -50% movement speed
+		* High snow -75% movement speed
+		* Blizzard - 90% movement speed
+		* sandstorm - 80% movement speed
 * Weather modifiers for aircraft
 	* Rain
 		* air_detection from  -10% to -20%
@@ -60,13 +67,6 @@ This file is extremely disorganized at the moment. Oh well.
 * Decrease number of heavy tanks needed to form battalion
 * Attrition should be removed from training
 * disable or fix "Do not engage" on navy
-* Movement speed changes:
-	* Mud -75% army speed
-	* unit movement speed -50%
-	* Medium snow on ground -50% movement speed
-	* High snow -75% movement speed
-	* Blizzard - 90% movement speed
-	* sandstorm - 80% movement speed
 
 ### Political changes
 * Military theorists should produce 0.2 exp per day
