@@ -3,6 +3,7 @@ This file is extremely disorganized at the moment. Oh well.
 # Changes applied
 
 ### Combat mechanics
+* Naval Superiority required for invasion up from 0.5 to 0.75
 * Defence in cities is now +0.3 (Originally no modifier)
 * Movement cost changes:
 	* Movement cost in hills up from 1.5 to 2
@@ -10,7 +11,32 @@ This file is extremely disorganized at the moment. Oh well.
 	* Movement cost in jungle up from 1.5 to 2
 	* Movement cost in Marsh up from 2 to 3
 	* Movement cost in desert up from 1.05 to 1.1
-* Naval Superiority required for invasion up from 0.5 to 0.75
+* Weather modifiers for aircraft
+	* Rain
+		* air_detection from  -10% to -20%
+		* air_accidents = +1%
+		* air_mission_efficiency from -10% to -20%
+		* air_bombing_targeting from 0 to -20% 
+
+	* Heavy Rain
+		* air_detection from -20% to -40 %
+		* air_accidents = +3%
+		* air_bombing_targetting from -50% to -60%
+		* air_mission_efficiency from - 30% to -50%
+	* Snow
+		* air_detection from  -15%  to -30%
+		* air_accidents from -1% to -3%
+		* air_mission_efficiency from -10% to -30%
+	* Blizzard
+		* air_detection from 30% to - 50 %
+		* air_accidents from 3% to 6%
+		* air_bombing_targetting from -70% to - 90%
+		* air_mission_efficiency from - 30% to - 90%
+	* Sandstorm
+		* air_detection = -90% 
+		* air_accidents = 6%
+		* air_bombing_targetting = - 100%
+		* air_mission_efficiency = - 90%
 
 ### Country changes
 #### UK
@@ -41,9 +67,6 @@ This file is extremely disorganized at the moment. Oh well.
 	* High snow -75% movement speed
 	* Blizzard - 90% movement speed
 	* sandstorm - 80% movement speed
-
-* Air  changes
-
 
 * Rain
 	* air_detection from  -10% to -20%
